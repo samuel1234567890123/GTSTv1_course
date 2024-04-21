@@ -1,6 +1,7 @@
 ### Note on the Essay: Opening Ceremony - WHO AM I?
 
-The essay provides an introduction to Nathan Hailu, a self-inspired hacker and incident responder working at INSA. Here's a breakdown of the key points covered:
+The essay provides an introduction to Nathan Hailu, a self-inspired hacker and incident responder working at INSA. 
+Here's a breakdown of the key points covered:
 
 #### Personal Introduction
 - **Name:** Nathan Hailu
