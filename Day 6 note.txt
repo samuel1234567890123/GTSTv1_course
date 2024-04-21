@@ -1,6 +1,7 @@
 ### Note on "Finishing for Linux! Day6_FinalLinux.md"
 
-The essay "Finishing for Linux! Day6_FinalLinux.md" provides a comprehensive overview of various topics related to Linux, focusing on both basic and advanced concepts. The essay covers the following key topics:
+The essay "Finishing for Linux! Day6_FinalLinux.md" provides a comprehensive overview of various topics related to Linux, 
+focusing on both basic and advanced concepts. The essay covers the following key topics:
 
 #### Script Installation
 - Discusses the installation of hacking tools from GitHub using the `git clone` command.
