@@ -5,7 +5,8 @@ focusing on both basic and advanced concepts. The essay covers the following key
 
 #### Script Installation
 - Discusses the installation of hacking tools from GitHub using the `git clone` command.
-- Explains the importance of dependencies and how to install modules/libraries for different programming languages like Python, Go, and Ruby.
+- Explains the importance of dependencies and how to install modules/libraries for different programming languages like Python, 
+Go, and Ruby.
 
 #### Errors on Package Managers
 - Highlights common errors encountered during package installation and how to resolve them.
